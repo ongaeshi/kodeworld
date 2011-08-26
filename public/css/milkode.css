@@ -16,10 +16,6 @@ div.footer_home {
     margin-top: 3em;
 }
 
-div.footer_home p {
-    font-size: 85%;
-}
-
 div.search-summary {
     border-color: #e92926;
     background-color:#FFF0F0;
@@ -68,11 +64,6 @@ span.keyword {
 
 font.version {
     font-size: 35%;
-}
-
-span.highlight-line {
-    background-color: #d0ff9c;
-   /*background-color: #FFFF55;*/
 }
 
 a.headmenu {
